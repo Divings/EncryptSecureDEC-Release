@@ -1,8 +1,3 @@
----
-layout: default
-title: EncryptSecureDEC
----
-
 # 🔐 EncryptSecureDEC
 ### Official Binary Distribution  
 by **Anvelk Innovations LLC / Innovation Craft Inc.**
