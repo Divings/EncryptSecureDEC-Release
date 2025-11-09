@@ -12,16 +12,16 @@ by **Anvelk Innovations LLC / Innovation Craft Inc.**
 ---
 
 ## 🚀 最新版ダウンロード
-| OS | ファイル | SHA256 | 公開日 |
-|----|-----------|--------|--------|
-| Windows 64bit | [EncryptSecureDEC](./releases/EncryptSecureDEC_v1.2.0_win64.zip) | `xxxxxxxx` | 2025-11-09 |
+| OS | ファイル | 公開日 |
+|----|-----------|--------|
+| Windows 64bit | [EncryptSecureDEC](https://github.com/Divings/EncryptSecureDEC-Release/releases/) | 2025-11-09 |
 
 ---
 
 ## 📜 ライセンス・利用条件
 
 - 無料版は**非商用利用限定**  
-- 商用利用や機能解除は[アップグレードチケット](https://anvelk.stores.jp/items/672880ce6e3db5002b56b2ec)をご購入ください。
+- 商用利用や機能解除は[アップグレードチケット](https://anvelk.stores.jp/items/690c86ea8474879ef94d5d8c)をご購入ください。
 
 ---
 
