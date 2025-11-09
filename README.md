@@ -1,0 +1,32 @@
+---
+layout: default
+title: EncryptSecureDEC
+---
+
+# 🔐 EncryptSecureDEC
+### Official Binary Distribution  
+by **Anvelk Innovations LLC / Innovation Craft Inc.**
+
+![UI Screenshot](./assets/screenshot_ui.png)
+
+---
+
+## 🚀 最新版ダウンロード
+| OS | ファイル | SHA256 | 公開日 |
+|----|-----------|--------|--------|
+| Windows 64bit | [EncryptSecureDEC](./releases/EncryptSecureDEC_v1.2.0_win64.zip) | `xxxxxxxx` | 2025-11-09 |
+
+---
+
+## 📜 ライセンス・利用条件
+
+- 無料版は**非商用利用限定**  
+- 商用利用や機能解除は[アップグレードチケット](https://anvelk.stores.jp/items/672880ce6e3db5002b56b2ec)をご購入ください。
+
+---
+
+## 🧭 関連リンク
+
+- [Anvelk Stores.jp](https://anvelk.stores.jp/)
+- [Innovation Craft Inc.](https://anvelk.jp)
+
