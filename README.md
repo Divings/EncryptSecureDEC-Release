@@ -7,9 +7,8 @@ by **Anvelk Innovations LLC / Innovation Craft Inc.**
 ---
 
 ## 🚀 最新版ダウンロード
-| OS | ファイル | 公開日 |
-|----|-----------|--------|
-| Windows 64bit | [EncryptSecureDEC](https://github.com/Divings/EncryptSecureDEC-Release/releases/) | 2025-11-09 |
+ Windows 64bit : [EncryptSecureDEC](https://github.com/Divings/EncryptSecureDEC-Release/releases/) 
+ 最終アップデート日時:2025/11/9
 
 ---
 
